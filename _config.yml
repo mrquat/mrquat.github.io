@@ -3,5 +3,12 @@ author: mrquat
 description: COOL
 url: "http://mrquat.github.io"
 
+avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl18neYnb_xZv8krfOVuYEUe8zlbmC3HCvkQ&usqp=CAU
+round-avatar: true
+
+post_search: true
+
+highlighter: rouge
+
 markdown: kramdown
 theme: minima
