@@ -10,5 +10,5 @@ post_search: true
 
 highlighter: rouge
 
-markdown: kramdown
+# markdown: kramdown
 theme: minima
