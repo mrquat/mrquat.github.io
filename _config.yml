@@ -11,4 +11,4 @@ post_search: true
 highlighter: rouge
 
 # markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
